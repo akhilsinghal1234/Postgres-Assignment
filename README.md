@@ -26,5 +26,4 @@ To populate database in psql, use `app.py`. Install different modules required a
 ## Contributor
 
 1. Akhil Singhal
-2. Abhijeet Sharma
 3. Swapnil Sharma
