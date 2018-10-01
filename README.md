@@ -22,3 +22,9 @@ Issue all the commands present in bash script or copy-paste then on terminal. Ma
 
 ## Populating database
 To populate database in psql, use `app.py`. Install different modules required and change username and password according to the postgre DB owner. 
+
+## Contributor
+
+1. Akhil Singhal
+2. Abhijeet Sharma
+3. Swapnil Sharma
